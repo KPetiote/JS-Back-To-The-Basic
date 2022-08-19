@@ -13,7 +13,7 @@ greeting = 'Hello';
 console.log(greeting);
 
 /* 
-Variables can include -= letters, numbes, _, $
+Variables can include = letters, numbes, _, $
 Variables cannot start with a number 
 */
 
