@@ -1,8 +1,11 @@
 # JS-Back-To-The-Basic
-A review of JavaScript from Scratch
+A full review of JavaScript from scratch.
 
-## Console.JS
-Contains practice of the Console Log while using Chrome's Inspector.
+## Console.js
+Contains practice of Google Chrome's console log.
+
+## DataTypes.js
+Constains practice of javascript data types.
 
 ## Variables.js
 Contains practice of javascript variables.
