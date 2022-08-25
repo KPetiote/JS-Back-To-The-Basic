@@ -9,3 +9,6 @@ Constains practice of javascript data types.
 
 ## Variables.js
 Contains practice of javascript variables.
+
+## TypeConversion.js
+Constains practice of javascript type conversions.
