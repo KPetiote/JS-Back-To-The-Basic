@@ -10,5 +10,8 @@ Constains practice of javascript data types.
 ## Variables.js
 Contains practice of javascript variables.
 
+## NumbersAndMathObject.js
+Constains practice of javascript numbers & the math object.
+
 ## TypeConversion.js
 Constains practice of javascript type conversions.
