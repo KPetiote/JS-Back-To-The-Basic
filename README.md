@@ -1,17 +1,20 @@
 # JS-Back-To-The-Basic
 A full review of JavaScript from scratch.
 
-## Console.js
+## console.js
 Contains practice of Google Chrome's console log.
 
-## DataTypes.js
+## dataTypes.js
 Constains practice of javascript data types.
 
-## Variables.js
+## variables.js
 Contains practice of javascript variables.
 
-## NumbersAndMathObject.js
+## numbersAndMathObject.js
 Constains practice of javascript numbers & the math object.
 
-## TypeConversion.js
+## stringObjectAndConcatenation.js
+Constains practice of javascript type string objects & concatenation.
+
+## typeConversion.js
 Constains practice of javascript type conversions.
