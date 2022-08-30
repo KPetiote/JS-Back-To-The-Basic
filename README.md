@@ -1,7 +1,8 @@
 # JS-Back-To-The-Basic
 
-## Top Language
-![Top Language](https://img.shields.io/github/languages/top/kpetiote/js-back-to-the-basic)
+![Top Language](https://img.shields.io/github/languages/top/kpetiote/JS-Back-To-The-Basic)
+![Repository Size](https://img.shields.io/github/repo-size/Kpetiote/JS-Back-To-The-Basic)
+![Last Commit](https://img.shields.io/github/last-commit/Kpetiote/JS-Back-To-The-Basic)
 
 ## Table of Contents
   * [Description](#description)
@@ -17,7 +18,7 @@
 The purpose of this project is to do a full review of Javascript from scratch.
 It contains several best known practices of the Javascript language.
 Each practice are broken down by individial Javascript files.
-To practice of each module, change the script name in the index.html file.
+To practice each module, change the script name in the index.html file.
 
 ## console.js
 Contains practice of Google Chrome's console log.
