@@ -21,7 +21,7 @@ It contains several best known practices of the JavaScript language.
 Each practice are broken down by individial JavaScript files.
 To practice each module, change the script name in the index.html file.
 
-## arrayArrayMethods.js
+### arrayArrayMethods.js
 Contains practice of JavaScript arrays & array methods.
 
 ## console.js
