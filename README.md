@@ -6,14 +6,14 @@
 
 ## Table of Contents
   * [Description](#description)
-  * [Arrays & Array Methods](#array&arraymethods.js)
+  * [Arrays & Array Methods](#array&arraymethodsjs)
   * [Console Log](#consolejs)
-  * [Data Types](#datatypes.js)
-  * [Numbers & Math Object](#numbersandmathobject.js)
-  * [String Object & Concatenation](#numbersandmathobject.js)
-  * [Template Literals/Strings](#typeconversion.js)
-  * [Type Conversion](#typeconversion.js)
-  * [Variables](#variables.js)
+  * [Data Types](#datatypesjs)
+  * [Numbers & Math Object](#numbersandmathobjectjs)
+  * [String Object & Concatenation](#numbersandmathobjectjs)
+  * [Template Literals/Strings](#typeconversionjs)
+  * [Type Conversion](#typeconversionjs)
+  * [Variables](#variablesjs)
 
 ## Description
 The purpose of this project is to do a full review of JavaScript from scratch.
