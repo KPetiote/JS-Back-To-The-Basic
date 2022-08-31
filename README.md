@@ -6,7 +6,7 @@
 
 ## Table of Contents
   * [Description](#description)
-  * [Arrays & Array Methods](#array&arraymethodsjs)
+  * [Arrays & Array Methods](#arrayarraymethodsjs)
   * [Console Log](#consolejs)
   * [Data Types](#datatypesjs)
   * [Numbers & Math Object](#numbersandmathobjectjs)
@@ -21,7 +21,7 @@ It contains several best known practices of the JavaScript language.
 Each practice are broken down by individial JavaScript files.
 To practice each module, change the script name in the index.html file.
 
-## array&ArrayMethods.js
+## arrayArrayMethods.js
 Contains practice of JavaScript arrays & array methods.
 
 ## console.js
