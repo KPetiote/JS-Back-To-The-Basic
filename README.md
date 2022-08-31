@@ -6,6 +6,7 @@
 
 ## Table of Contents
   * [Description](#description)
+  * [Arrays & Array Methods](#arrays&arraymethods)
   * [Console Log](#consolejs)
   * [Data Types](#datatypes.js)
   * [Numbers & Math Object](#numbersandmathobject.js)
@@ -19,6 +20,9 @@ The purpose of this project is to do a full review of JavaScript from scratch.
 It contains several best known practices of the JavaScript language.
 Each practice are broken down by individial JavaScript files.
 To practice each module, change the script name in the index.html file.
+
+## array&ArrayMethods.js
+Contains practice of JavaScript arrays & array methods.
 
 ## console.js
 Contains practice of Google Chrome's console log.
