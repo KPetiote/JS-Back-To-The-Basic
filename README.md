@@ -15,28 +15,28 @@
   * [Variables](#variables.js)
 
 ## Description
-The purpose of this project is to do a full review of Javascript from scratch.
-It contains several best known practices of the Javascript language.
-Each practice are broken down by individial Javascript files.
+The purpose of this project is to do a full review of JavaScript from scratch.
+It contains several best known practices of the JavaScript language.
+Each practice are broken down by individial JavaScript files.
 To practice each module, change the script name in the index.html file.
 
 ## console.js
 Contains practice of Google Chrome's console log.
 
 ## dataTypes.js
-Constains practice of javascript data types.
+Constains practice of JavaScript data types.
 
 ## numbersAndMathObject.js
-Constains practice of javascript numbers & the math object.
+Constains practice of JavaScript numbers & the math object.
 
 ## stringObjectAndConcatenation.js
-Constains practice of javascript type string objects & concatenation.
+Constains practice of JavaScript type string objects & concatenation.
 
 ## templateLiterals.js
-Constains practice of javascript template literals/strings.
+Constains practice of JavaScript template literals/strings.
 
 ## typeConversion.js
-Constains practice of javascript type conversions.
+Constains practice of JavaScript type conversions.
 
 ## variables.js
-Contains practice of javascript variables.
+Contains practice of JavaScript variables.
