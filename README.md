@@ -6,7 +6,7 @@
 
 ## Table of Contents
   * [Description](#description)
-  * [Arrays & Array Methods](#array&arraymethods)
+  * [Arrays & Array Methods](#array&arraymethods.js)
   * [Console Log](#consolejs)
   * [Data Types](#datatypes.js)
   * [Numbers & Math Object](#numbersandmathobject.js)
