@@ -1,3 +1,5 @@
+// CONSOLE LOG
+
 alert("Hello World");
 // Log to console
 console.log('Hello World');

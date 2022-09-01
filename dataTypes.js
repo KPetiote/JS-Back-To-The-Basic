@@ -1,3 +1,5 @@
+// DATA TYPES
+
 // 6 PRIMITIVE TYPES
 
 // String

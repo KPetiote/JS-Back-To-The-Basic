@@ -1,3 +1,5 @@
+// OBJECT LITERALS
+
 const person = {
   firstName: 'Kenneth',
   lastName: 'Petiote',

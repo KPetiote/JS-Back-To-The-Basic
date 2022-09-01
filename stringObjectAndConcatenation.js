@@ -1,3 +1,5 @@
+// STRING OBJECT AND CONCATENATION
+
 const firstName = 'Kenneth';
 const lastName = 'Petiote';
 const age = 30;

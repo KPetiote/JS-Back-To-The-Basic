@@ -1,3 +1,5 @@
+// VARIABLES
+
 // var, let, const
 
 // var testname = 'John Doe';
