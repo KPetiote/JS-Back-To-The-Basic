@@ -10,6 +10,7 @@
   * [Console Log](#consolejs)
   * [Data Types](#datatypesjs)
   * [Numbers & Math Object](#numbersandmathobjectjs)
+  * [Object Literals](#objectliteralsjs)
   * [String Object & Concatenation](#numbersandmathobjectjs)
   * [Template Literals/Strings](#typeconversionjs)
   * [Type Conversion](#typeconversionjs)
@@ -32,6 +33,9 @@ Constains practice of JavaScript data types.
 
 ## numbersAndMathObject.js
 Constains practice of JavaScript numbers & the math object.
+
+## objectLiterals.js
+Constains practice of JavaScript object literals.
 
 ## stringObjectAndConcatenation.js
 Constains practice of JavaScript type string objects & concatenation.
