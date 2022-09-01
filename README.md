@@ -9,6 +9,7 @@
   * [Arrays & Array Methods](#arrayarraymethodsjs)
   * [Console Log](#consolejs)
   * [Data Types](#datatypesjs)
+  * [Dates & Times](#dates&timesjs)
   * [Numbers & Math Object](#numbersandmathobjectjs)
   * [Object Literals](#objectliteralsjs)
   * [String Object & Concatenation](#numbersandmathobjectjs)
@@ -30,6 +31,9 @@ Contains practice of Google Chrome's console log.
 
 ## dataTypes.js
 Constains practice of JavaScript data types.
+
+## dates&Times.js
+Constains practice of JavaScript dates & times.
 
 ## numbersAndMathObject.js
 Constains practice of JavaScript numbers & the math object.
