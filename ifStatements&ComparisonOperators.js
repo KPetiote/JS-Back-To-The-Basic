@@ -61,3 +61,18 @@ if(color === 'red'){
 } else {
   console.log('Color is not red or blue');
 }
+
+// LOGICAL OPERATORS
+
+const testname = 'Steve';
+const age = 20;
+
+if(age > 0 && age < 12){
+  console.log(`${testname} is a child`);
+} else if (age >= 13 && age <=19){
+  console.log(`${testname} is a teenager`);
+} else {
+  console.log(`${testname} is an adult`);
+}
+
+//
