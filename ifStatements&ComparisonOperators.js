@@ -75,4 +75,18 @@ if(age > 0 && age < 12){
   console.log(`${testname} is an adult`);
 }
 
-//
+// OR ||
+if(age < 16 || age > 65){
+  console.log(`${testname} can not run in race`);
+} else {
+  console.log(`${testname} is registered for the race`);
+}
+
+// TERNERARY OPERATOR
+console.log(id === 100 ? 'CORRECT' : 'INCORRECT');
+
+// WITHOUT BRACES
+if(id === 100)
+  console.log('CORRECT');
+else
+  console.log('INCORRECT');
