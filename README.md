@@ -9,7 +9,7 @@
   * [Arrays & Array Methods](#arrayarraymethodsjs)
   * [Console Log](#consolejs)
   * [Data Types](#datatypesjs)
-  * [Dates & Times](#dates&timesjs)
+  * [Dates & Times](#datesAndtimesjs)
   * [Function Declarations & Expressions](#functiondeclarations&expressionsjs)  
   * [Numbers & Math Object](#numbersandmathobjectjs)
   * [Object Literals](#objectliteralsjs)
