@@ -10,6 +10,7 @@
   * [Console Log](#consolejs)
   * [Data Types](#datatypesjs)
   * [Dates & Times](#dates&timesjs)
+  * [Function Declarations & Expressions](#functiondeclarations&expressionsjs)  
   * [Numbers & Math Object](#numbersandmathobjectjs)
   * [Object Literals](#objectliteralsjs)
   * [String Object & Concatenation](#numbersandmathobjectjs)
@@ -21,7 +22,7 @@
 ## Description
 The purpose of this project is to do a full review of JavaScript from scratch.
 It contains several best known practices of the JavaScript language.
-Each practice are broken down by individial JavaScript files.
+Each practice are broken down by individual JavaScript files.
 To practice each module, change the script name in the index.html file.
 
 ## arrayArrayMethods.js
@@ -31,27 +32,30 @@ Contains practice of JavaScript arrays & array methods.
 Contains practice of Google Chrome's console log.
 
 ## dataTypes.js
-Constains practice of JavaScript data types.
+Contains practice of JavaScript data types.
 
 ## dates&Times.js
-Constains practice of JavaScript dates & times.
+Contains practice of JavaScript dates & times.
+
+## functiondeclarations&expressions.js
+Contains practice of JavaScript function declarations & expressions.
 
 ## numbersAndMathObject.js
-Constains practice of JavaScript numbers & the math object.
+Contains practice of JavaScript numbers & the math object.
 
 ## objectLiterals.js
-Constains practice of JavaScript object literals.
+Contains practice of JavaScript object literals.
 
 ## stringObjectAndConcatenation.js
-Constains practice of JavaScript type string objects & concatenation.
+Contains practice of JavaScript type string objects & concatenation.
 
 ## switches.js
-Constains practice of JavaScript switch statements.
+Contains practice of JavaScript switch statements.
 ## templateLiterals.js
-Constains practice of JavaScript template literals/strings.
+Contains practice of JavaScript template literals/strings.
 
 ## typeConversion.js
-Constains practice of JavaScript type conversions.
+Contains practice of JavaScript type conversions.
 
 ## variables.js
 Contains practice of JavaScript variables.
