@@ -34,7 +34,7 @@ Contains practice of Google Chrome's console log.
 ## dataTypes.js
 Contains practice of JavaScript data types.
 
-## dates&Times.js
+## datesAndTimes.js
 Contains practice of JavaScript dates & times.
 
 ## functiondeclarations&expressions.js
