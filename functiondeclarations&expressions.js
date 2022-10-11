@@ -16,6 +16,16 @@ function greet(firstName = 'John', lastName = 'Doe'){
 
 const square = function(x = 3){
     return x*x;
-}
+};
 
-console.log(square());
+// console.log(square());
+
+// IMMEDIATELY INVOKE FUNCTION EXPRESSIONS - IIFEs
+
+// (function(){
+//     console.log('IIFE Ran...');
+// })();
+
+// (function(name){
+//     console.log('Hello '+ name);
+// })('Brad');
