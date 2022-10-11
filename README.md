@@ -13,6 +13,7 @@
   * [Numbers & Math Object](#numbersandmathobjectjs)
   * [Object Literals](#objectliteralsjs)
   * [String Object & Concatenation](#numbersandmathobjectjs)
+  * [Switches](#switchesjs)
   * [Template Literals/Strings](#typeconversionjs)
   * [Type Conversion](#typeconversionjs)
   * [Variables](#variablesjs)
@@ -44,6 +45,8 @@ Constains practice of JavaScript object literals.
 ## stringObjectAndConcatenation.js
 Constains practice of JavaScript type string objects & concatenation.
 
+## switches.js
+Constains practice of JavaScript switch statements.
 ## templateLiterals.js
 Constains practice of JavaScript template literals/strings.
 
